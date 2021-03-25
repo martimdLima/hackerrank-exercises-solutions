@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for number in {1..99..2}
+do
+echo "$number "
+done
+exit 0
